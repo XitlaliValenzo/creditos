@@ -2,7 +2,7 @@
 
 1. **Descargar el repositorio**
    ```bash
-   git clone [https://github.com/XitlaliValenzo/creditos/tree/d4916de167bccb84587103103b17cb5b28e785ae]
+   git clone [Repositorio del proyecto](https://github.com/XitlaliValenzo/creditos/tree/d4916de167bccb84587103103b17cb5b28e785ae)
   
 2. **Activar el entorno virtual desde cmd**
    ```bash
